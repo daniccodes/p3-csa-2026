@@ -1,5 +1,6 @@
-# p3-csa-2026
-## AP CSA RELEASED QUESTIONS 2026
+# AP Computer Science A- 2026 FRQ Solutions:
+These are my solutions to the 2026 AP CS A Free Response Questions,
+completed as a post-exam project at FDR High School.
 
 
 [] question 1: 
