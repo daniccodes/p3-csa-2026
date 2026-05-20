@@ -1,6 +1,6 @@
-public Account(Steing requestName){
+public Account(String requestedName){
 
-  username = requestName;
+  String username = requestedName;
   int i = 0;
    while(!IsAvailable){
      i++;
