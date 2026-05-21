@@ -8,7 +8,7 @@ Public class Bottle{
   }
 
   public double updateAmount(double removed){
-    if(amt -= removed <= 0.25(IntCap){
+    if((amt -= removed) <= 0.25(IntCap){
       amt = intCap;
     }
     return amt;
