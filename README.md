@@ -4,7 +4,7 @@ completed as a post-exam project at FDR High School.
 
 # Questions:
 
-[X] question 1: Account.java(String Processing and Iteration):
+[ X ] question 1: Account.java(String Processing and Iteration):
     [X] PartA
     [X] PartB
 -
