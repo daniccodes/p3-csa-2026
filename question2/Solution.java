@@ -1,14 +1,20 @@
-Public class Bottle{
+/**
+ * Creates the "Bottle" class with material, volume, and capacity properties.
+*/
+  
+
+public class Bottle{
   private double intCap;
   private double amt;
 
-  Public Water(double cap){
-    intCapacity = cap;
+  public Bottle(double cap){
+    intCap = cap;
     amt = cap;
   }
 
   public double updateAmount(double removed){
-    if((amt -= removed) <= 0.25(IntCap){
+    amt -= removed;
+    if (amt <= 0.25 * intCap){
       amt = intCap;
     }
     return amt;
