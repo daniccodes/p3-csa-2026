@@ -4,13 +4,14 @@ completed as a post-exam project at FDR High School.
 
 # Questions:
 
-[--] question 1: Account.java
+[x] question 1: Account.java(String Processing and Iteration):
+-
 
-[--] quetsion 2: Bottle.java
+[x] quetsion 2: Bottle.java(Building Classes)
 
-[--] question 3: CourseRecord.java
+[x] question 3: CourseRecord.java(ArrayList Processing and Object Interation)
 
-[--] question 4: Space.java
+[x] question 4: Space.java(2D Arrays)
 
 # Refleciton: 
 
