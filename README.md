@@ -8,7 +8,7 @@ completed as a post-exam project at FDR High School.
   - [x] PartA
   - [x] PartB
 
-- [x] quetsion 2: Bottle.java(Building Classes)
+- [x] questsion 2: Bottle.java(Building Classes)
 
 - [X] question 3: CourseRecord.java(ArrayList Processing and Object Interation)
 
