@@ -2,7 +2,6 @@
  * Creates the "Bottle" class with material, volume, and capacity properties.
 */
   
-
 public class Bottle{
   private double intCap;
   private double amt;
