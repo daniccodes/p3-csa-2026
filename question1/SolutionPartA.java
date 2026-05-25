@@ -1,3 +1,6 @@
+/**
+ * Creates a new account with a unique username.
+
 public Account(String requestedName){
 
   String username = requestedName;
