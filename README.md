@@ -16,6 +16,5 @@ completed as a post-exam project at FDR High School.
 
 # Refleciton: 
 
-Working through these after the exam helped me...
-
+Working through these after the exam helped me catch mistakes i made during the exam and understand more effiecient approaches to the questions.
 
