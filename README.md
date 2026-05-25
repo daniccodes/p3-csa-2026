@@ -4,13 +4,13 @@ completed as a post-exam project at FDR High School.
 
 # Questions:
 
-[] question 1: Account.java
+[--] question 1: Account.java
 
-[] quetsion 2: Bottle.java
+[--] quetsion 2: Bottle.java
 
-[] question 3: CourseRecord.java
+[--] question 3: CourseRecord.java
 
-[] question 4: Space.java
+[--] question 4: Space.java
 
 # Refleciton: 
 
