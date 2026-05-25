@@ -14,7 +14,7 @@ completed as a post-exam project at FDR High School.
 
 - [X] question 4: Space.java(2D Arrays)
 
-# Refleciton: 
+# Reflection: 
 
-Working through these after the exam helped me catch mistakes i made during the exam and understand more effiecient approaches to the questions.
+Working through these after the exam helped me catch mistakes i made during the exam and understand more efficient approaches to the questions.
 
