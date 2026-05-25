@@ -3,7 +3,6 @@
  * Compares students via student ID.
 */
 
-
 public int moreHistoryThanMathAbsences(){
   int count = 0;
   for(int i = 0; i < historyList.size(); i++){
