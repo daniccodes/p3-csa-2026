@@ -2,6 +2,7 @@
 These are my solutions to the 2026 AP CS A Free Response Questions,
 completed as a post-exam project at FDR High School.
 
+# Questions:
 
 [] question 1: Account.java
 
@@ -11,7 +12,7 @@ completed as a post-exam project at FDR High School.
 
 [] question 4: Space.java
 
-# REFLECTIOn: 
+# Refleciton: 
 
 Working through these after the exam helped me...
 
